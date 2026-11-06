@@ -30,7 +30,7 @@ Daisychain uses only NeoForge's standard item, fluid and energy capabilities, so
 ## Links
 
 - Download: [Modrinth](https://modrinth.com/mod/daisychain)
-- Bugs and ideas: [GitHub issues](https://github.com/wipdgroup/Daisychain/issues)
+- Bugs and ideas: [GitHub issues](https://github.com/zerobitmods/Daisychain/issues)
 
 ## Installing
 
